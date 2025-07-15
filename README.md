@@ -17,8 +17,12 @@
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
 - **スクリーンショット**  
-  <img src="home/images/screenshot-home.png" alt="screenshot" width="600">
-
+  <img src="home/images/screenshot-home.png" alt="screenshot" width="400">
+  <img src="home/images/screenshot-works.png" alt="screenshot" width="400">
+  <img src="home/images/screenshot-design.png" alt="screenshot" width="400">
+  <img src="home/images/screenshot-about.png" alt="screenshot" width="400">
+  <img src="home/images/screenshot-works.png" alt="screenshot" width="400">
+  
 ---
 
 ## 🛠 使用技術
