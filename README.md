@@ -41,7 +41,8 @@ cd portfolio
 npm install
 npm run dev
 
-``` 
+```
+---
 
 ## 📌 6. 作者プロフィール
 
