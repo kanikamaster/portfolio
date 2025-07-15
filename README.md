@@ -17,7 +17,7 @@
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
 - **スクリーンショット**  
-  ![portfolio screenshot](./images/screenshot.png)
+  <img src="./images/screenshot-home.png" alt="portfolio screenshot" width="600">
 
 ---
 
