@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Engineerの卵</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="black-heart.png" type="image/png">
+  <link rel="icon" href="image-icon/black-heart.png" type="image/png">
 </head>
 
 <body>
@@ -23,9 +23,8 @@
   <div class="container">
 
     <div class="top-wrapper">
-      <!-- <div class="compile"> -->
       <div class="left-img">
-        <img src="icon-cat.png" alt="icon" width="480" height="480">
+        <img src="image-icon/icon-cat.png" alt="icon" width="480" height="480">
       </div>
 
       <div class="right-text">
@@ -39,63 +38,82 @@
           <li class="three"><a href="#about">About</a></li>
           <li class="four"><a href="#contact">Contact</a></li>
         </ul>
-        <img src="down.png" alt="down" width="48px" class="down">
+        <img src="image-icon/down.png" alt="down" width="48px" class="down">
       </div>
     </div>
 
 
-    <h3 id="works">Works</h3>
+    <h3 id="works"><span class="line">Works</span></h3>
     <div class="works-wrapper">
-      <div class="left-work">
-        <img src="sample-task.png" alt="work-1" width="400" height="200" class="work-img">
+      <div class="work-intro">
+        <video width="680" height="440" controls muted>
+          <source src="movie/App01.mp4" type="video/mp4">
+          お使いのブラウザは video タグをサポートしていません。
+        </video>
         <h4>打倒タスク</h4>
-        <p>説明入れる説明入れる説明入れる説明入れる説明入れる説明入れる</p>
+        <p>『タスクと締切を紐づけて管理したい』というユーザーの課題を解決するために制作しました。<br>タスクに信号機の色を使用することで、締切までの期間を直感的に把握することができます。<br>使用言語：React</p>
       </div>
 
-      <div class="right-work">
-        <img src="sample-counter.png" alt="work-2" width="400" height="200" class="work-img">
+      <div class="work-intro">
+        <video width="680" height="440" controls muted>
+          <source src="movie/App02.mp4" type="video/mp4">
+          お使いのブラウザは video タグをサポートしていません。
+        </video>
         <h4>来店数カウンター</h4>
-        <p>説明入れる説明入れる説明入れる説明入れる説明入れる説明入れる</p>
+        <p>『名簿に来店回数を記録する手作業の負担を軽減したい』というユーザーの要望を実現するために<br>制作しました。デジタルに不慣れな方でも扱いやすいシンプルな設計を心がけました。<br>使用言語：React</p>
+      </div>
+      
+      <div class="design-top">
+      <h4>Design</h4>
+      <p>以下はポートフォリオのワイヤーフレームです。<br>UIの構造やページのレイアウトを中心にデザインしました。<br>使用ツール：Figma</p>
+      </div>
+      <div class="design">
+        <img src="image-UI/UI-site1.png" alt="" width="520" height="360">
+        <img src="image-UI/UI-site2.png" alt="" width="520" height="360">
+        <img src="image-UI/UI-site3.png" alt="" width="520" height="360">
+        <img src="image-UI/UI-site4.png" alt="" width="520" height="360">
+        <img src="image-UI/UI-task.png" alt="" width="520" height="360">
+        <img src="image-UI/UI-counter.png" alt="" width="520" height="360">
       </div>
     </div>
 
 
-    <h3 id="skill">Skill</h3>
+    <h3 id="skill"><span class="line">Skill</span></h3>
     <div class="skill-wrapper">
-      <img src="image.png" alt="" width="100" height="100">
-      <img src="image.png" alt="" width="100" height="100">
-      <img src="image.png" alt="" width="100" height="100">
-      <img src="image.png" alt="" width="100" height="100">
-      <img src="image.png" alt="" width="100" height="100">
+      <img src="image-skill-icon/html5.svg" alt="" width="140" height="140" class="over-icon">
+      <img src="image-skill-icon/css.svg" alt="" width="140" height="140" class="skill-icon">
+      <img src="image-skill-icon/react.svg" alt="" width="140" height="140" class="skill-icon">
+      <img src="image-skill-icon/github.svg" alt="" width="140" height="140" class="skill-icon">
+      <img src="image-skill-icon/figma.svg" alt="" width="140" height="140" class="over-icon">
     </div>
 
 
-    <h3 id="about">About</h3>
+    <h3 id="about"><span class="line">About</span></h3>
     <div class="about-wrapper">
-      <img src="intro.png" alt="intro-icon" width="150" height="150">
-      <div>
-        <h4>名前入れる</h4>
+      <img src="image-icon/intro.png" alt="intro-icon" width="150" height="150">
+      <div class="intro-text">
+        <h5>[あなたの名前]</h5>
         <p>法律系の仕事を退職後、独学でプログラミングを学習しました。
           <br>
-          とくに好きな言語はJSです。UIに拘りたいため日々デザイン本を読んでいます。
+          とくに好きな言語はCSSです。UIの魅力に惹かれ、日々デザイン本を読んでいます。
           <br>
-          プログラミングは険しく地道な仕事ですが、目的を達成できるワクワクで溢れていると実感させられます。
+          プログラミングは険しく地道ですが、目的達成のための工夫を考えることはワクワクします。独学で積み上げた粘り強さを武器に、どんな課題にも前向きに取り組み、貪欲に学び続けていきます！
         </p>
       </div>
     </div>
 
-    <h3 id="contact">Contact</h3>
+    <h3 id="contact"><span class="line">Contact</span></h3>
     <div class="contact-wrapper">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=example@gmail.com" target="_blank"
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=qing4498@gmail.com" target="_blank"
         rel="noopener noreferrer">
-        <img src="mail.png" alt="mail" width="60px">
+        <img src="image-icon/gmail.svg" alt="mail" width="160px">
       </a>
-      <p>お気軽にお問い合わせください。</p>
-      <a href="#anchor"><img src="up.png" alt="up" class="up" width="48px"></a>
+      <p>クリックするとGmailに遷移します。<br>お気軽にお問い合わせください。</p>
+      <a href="#anchor"><img src="image-icon/up.png" alt="up" class="up" width="px"></a>
     </div>
   </div>
   <footer>
-    <p>Thank you for your watching！</p>
+    <p>© 2025 [あなたの名前]. All rights reserved.</p>
   </footer>
 
 </body>
