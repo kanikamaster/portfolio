@@ -16,11 +16,11 @@
 - **サイトURL**  
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
+- **デモ動画** 
+  [![Watch the demo](https://img.youtube.com/vi/abc123/hqdefault.jpg)](https://www.youtube.com/watch?v=abc123)
+
 - **スクリーンショット**  
   <img src="home/images/screenshot-home.png" alt="screenshot" width="600">
-  <img src="home/images/screenshot-works.png" alt="screenshot" width="600">
-  <img src="home/images/screenshot-design.png" alt="screenshot" width="600">
-  <img src="home/images/screenshot-about.png" alt="screenshot" width="600">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="600">
   
 ---
