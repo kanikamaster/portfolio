@@ -43,9 +43,12 @@ npm run dev
 
 ---
 
-## 👤 作者プロフィール
+### 📌 6. 作者プロフィール
+
+```markdown
+## 👤 作者
 
 - 名前：山田 太郎（Yamada Taro）
 - 学校：〇〇大学 情報学部
 - 興味：Webアプリ開発 / UIデザイン / チーム開発
-- GitHub：github.com/yourname
+- GitHub：[github.com/yourname](https://github.com/yourname)
