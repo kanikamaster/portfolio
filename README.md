@@ -23,7 +23,7 @@
 - **動画デモ** 
 
   [![ポートフォリオ動画](https://img.youtube.com/vi/【動画ID】/0.jpg)](https://www.youtube.com/watch?v=【動画ID】)
-  👆クリックで動画（YouTube）を再生できます。
+  👈クリックで動画（YouTube）を再生できます。
 
 ---
 
