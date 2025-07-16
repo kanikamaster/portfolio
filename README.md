@@ -35,11 +35,6 @@
 ![Github](https://img.shields.io/badge/Github-✓-red)
 ![Figma](https://img.shields.io/badge/Figma-✓-a259ff)
 
-- HTML / CSS / JavaScript  
-- React  
-- Git / GitHub  
-- Figma（デザイン）
-
 ---
 
 ## 💡 工夫した点
