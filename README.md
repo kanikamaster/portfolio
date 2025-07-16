@@ -16,12 +16,15 @@
 - **サイトURL**  
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
-- **デモ動画** 
-  [![Watch the demo](https://img.youtube.com/vi/abc123/hqdefault.jpg)](https://www.youtube.com/watch?v=abc123)
-
 - **スクリーンショット**  
   <img src="home/images/screenshot-home.png" alt="screenshot" width="600">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="400">
+
+- **デモ動画** 
+    <video width="680" height="440" controls muted>
+          <source src="home/movie/App02.mp4" type="video/mp4">
+          お使いのブラウザは video タグをサポートしていません。
+        </video>
   
 ---
 
