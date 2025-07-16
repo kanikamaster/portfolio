@@ -44,15 +44,20 @@
 
 ---
 
-## ⚙️ セットアップ方法（コード確認用）
+## ポートフォリオサイトのセットアップ方法
 
-```bash
-git clone git@github.com:yourname/portfolio.git
-cd portfolio
-npm install
-npm run dev
+このポートフォリオは静的なHTML＋CSSで作成されています。  
+ローカルで動作確認したい場合は、`index.html` をブラウザで開くだけでOKです。
 
-```
+---
+
+## Reactアプリ（動画埋め込み）について
+
+Reactアプリは別リポジトリで管理しています。  
+セットアップや動作方法は以下のリンクをご参照ください。
+
+[Reactアプリ リポジトリはこちら](https://github.com/あなたのユーザ名/Reactアプリリポジトリ名)
+
 ---
 
 ## 📌 6. 作者プロフィール
