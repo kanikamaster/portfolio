@@ -73,4 +73,4 @@ Reactアプリは別リポジトリで管理しています。
 ---
 
 ## 📬 お問い合わせフォーム
-  [こちらからどうぞ](https://forms.gle/r6J56MgW3LNqF35m8)
+  👉[こちらからどうぞ](https://forms.gle/r6J56MgW3LNqF35m8)
