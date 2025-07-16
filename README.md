@@ -29,6 +29,12 @@
 
 ## 🛠 使用技術
 
+![HTML](https://img.shields.io/badge/HTML-✓-orange)
+![CSS](https://img.shields.io/badge/CSS-✓-blue)
+![React](https://img.shields.io/badge/React-✓-61DAFB)
+![Github](https://img.shields.io/badge/Github-✓-red)
+![Figma](https://img.shields.io/badge/Figma-✓-a259ff)
+
 - HTML / CSS / JavaScript  
 - React  
 - Git / GitHub  
