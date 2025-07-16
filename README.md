@@ -17,7 +17,7 @@
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
 - **スクリーンショット**  
-  <img src="home/images/screenshot-home.png" alt="screenshot" width="600">
+  <img src="home/images/screenshot-home.png" alt="screenshot" width="400">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="400">
 
 - **動画デモ** 
