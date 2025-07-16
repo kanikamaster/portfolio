@@ -57,6 +57,7 @@ Reactアプリは別リポジトリで管理しています。
 セットアップや動作方法は以下のリンクをご参照ください。
 
 [Reactアプリ リポジトリ(タスク管理)はこちら](https://github.com/kanikamaster/App-1)
+
 [Reactアプリ リポジトリ(来店数カウンター)はこちら](https://github.com/kanikamaster/App-2)
 
 ---
