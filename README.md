@@ -65,8 +65,8 @@ Reactアプリは別リポジトリで管理しています。
 
 ## 📌 作者プロフィール
 
-- 名前：山田 太郎（Yamada Taro）
-- 学校：架空大学 情報学部
+- 名前：A.A
+- 学校：K大学 情報学部
 - 興味：Webアプリ開発 / UIデザイン / チーム開発
 - GitHub：[github.com/kanikamaster](https://github.com/kanikamaster)
 
