@@ -20,12 +20,11 @@
   <img src="home/images/screenshot-home.png" alt="screenshot" width="600">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="400">
 
-- **デモ動画** 
-    <video width="680" height="440" controls muted>
-          <source src="home/movie/App02.mp4" type="video/mp4">
-          お使いのブラウザは video タグをサポートしていません。
-        </video>
-  
+- **動画デモ** 
+
+  [![ポートフォリオ動画](https://img.youtube.com/vi/【動画ID】/0.jpg)](https://www.youtube.com/watch?v=【動画ID】)
+  👆クリックで動画（YouTube）を再生できます。
+
 ---
 
 ## 🛠 使用技術
