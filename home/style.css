@@ -230,6 +230,7 @@ h4 {
   display: flex;
   padding: 40px;
   border: solid 3px #333;
+  border-radius: 50px;
   margin-top: 100px;
 }
 
