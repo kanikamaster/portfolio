@@ -22,9 +22,9 @@
 
 - **動画デモ** 
 
-  [![ポートフォリオ動画](https://img.youtube.com/vi/RGxVs2JYWJM/0.jpg)](https://www.youtube.com/watch?v=RGxVs2JYWJM)
+  [![ポートフォリオ動画](https://www.youtube.com/watch?v=RGxVs2JYWJM)]
 
-  👈クリックで動画（YouTube）を再生できます。
+  👆クリックで動画（YouTube）を再生できます。
 
 ---
 
