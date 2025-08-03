@@ -1,7 +1,6 @@
 # 🖼 ポートフォリオサイト
 このプロジェクトは2025年7月に作成しました。
 
- URL👉https://kanikamaster.github.io/portfolio/
 
 就職活動のために作成したWeb ポートフォリオです。  
 自分の制作実績、スキル、Gmailなどをまとめています。
@@ -13,15 +12,15 @@
 ---
 
 ## 🔗 デモ
-
+- **デザイン実装(URL)**
+  👉https://kanikamaster.github.io/ryokan-site/
+  
 - **スクリーンショット**  
   <img src="home/images/screenshot-home.png" alt="screenshot" width="500">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="400">
 
 - **動画デモ** 
-
   [![ポートフォリオ動画](https://img.youtube.com/vi/RGxVs2JYWJM/0.jpg)](https://www.youtube.com/watch?v=RGxVs2JYWJM)
-
   👆クリックで動画（YouTube）を再生できます。
 
 ---
