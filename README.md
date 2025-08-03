@@ -13,17 +13,15 @@
 
 ## 🔗 デモ
 
-- **サイトURL**  
-  [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
-
 - **スクリーンショット**  
   <img src="home/images/screenshot-home.png" alt="screenshot" width="500">
   <img src="home/images/screenshot-mobile.png" alt="screenshot" height="400">
 
 - **動画デモ** 
 
-  [![ポートフォリオ動画](https://img.youtube.com/vi/【動画ID】/0.jpg)](https://www.youtube.com/watch?v=【動画ID】)
-  👈クリックで動画（YouTube）を再生できます。
+  [![ポートフォリオ動画](https://img.youtube.com/vi/RGxVs2JYWJM/0.jpg)](https://www.youtube.com/watch?v=RGxVs2JYWJM)
+
+  👆クリックで動画（YouTube）を再生できます。
 
 ---
 
