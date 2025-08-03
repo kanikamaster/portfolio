@@ -191,6 +191,25 @@ h4 {
   margin-top: 16px;
 }
 
+.des-container {
+  margin: 40px 0;
+}
+
+.site {
+  padding: 40px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #B13BFF;
+  border-radius: 10px;
+}
+
+.ryokan {
+  color: #fff;
+  border-bottom: solid 3px #fff;
+}
+
 .design {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
