@@ -1,6 +1,7 @@
 # 🖼 ポートフォリオサイト
 このプロジェクトは2025年7月に作成しました。
 
+ URL👉https://kanikamaster.github.io/portfolio/
 
 就職活動のために作成したWeb ポートフォリオです。  
 自分の制作実績、スキル、Gmailなどをまとめています。
