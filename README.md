@@ -12,10 +12,12 @@
 ---
 
 ## 🔗 デモ
-- **デザイン実装(URL)**
-  👉https://kanikamaster.github.io/ryokan-site/
 - **ポートフォリオURL**
   👉https://kanikamaster.github.io/portfolio/
+  
+- **デザイン実装(URL)**
+  👉https://kanikamaster.github.io/ryokan-site/
+
   
 - **スクリーンショット**  
   <img src="home/images/screenshot-home.png" alt="screenshot" width="500">
