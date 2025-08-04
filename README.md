@@ -12,7 +12,7 @@
 ---
 
 ## 🔗 デモ
-- **ポートフォリオURL**
+- **ポートフォリオ(URL)**
   👉https://kanikamaster.github.io/portfolio/
   
 - **デザイン実装(URL)**
